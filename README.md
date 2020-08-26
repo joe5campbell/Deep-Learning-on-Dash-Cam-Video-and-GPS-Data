@@ -1,4 +1,4 @@
-# Deep-Learning-on-Dash-Cam-Video-and-GPS-Data-Python-Files
+# Deep-Learning-on-Dash-Cam-Video-and-GPS-Data
 
 This repository contains the five different python files utilised for data preparation within the context of the 2020 Dissertation project, Deep Learning on Dash-Cam Video and GPS Data.
 
