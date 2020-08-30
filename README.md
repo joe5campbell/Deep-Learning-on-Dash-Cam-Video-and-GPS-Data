@@ -13,12 +13,18 @@ SPEED DETECTION:
     
   SpeedDetect.py
     This file contains functions to extract data in the format required for a regression based neural network.
+    
+  SpeedDetect.ipynb
+    Python Notebook displaying some of the commands and methods utilised for training speed detection networks on the Google Colab platform.
 
 
 JUNCTION CLASSIFICATION:
 
   JunctionExtract.py
     This file contains functions for the entire data preparation process if the Junction Classification section of this disseration.
+    
+  Junction_Classify.ipynb
+    Python Notebook displaying some of the commands and methods utilised for training junction classification networks on the Google Colab platform.
     
 
 STRESS LEVEL PREDICTION:
@@ -28,4 +34,7 @@ STRESS LEVEL PREDICTION:
    
   StressExtract.py
     This file contains the functions used for extracting information from the stress level questionnaire and processing it into input data for the stress level neural network.
+    
+  Stress_Predict.ipynb
+    Python Notebook displaying some of the commands and methods utilised for training stress prediction networks on the Google Colab platform.
    
